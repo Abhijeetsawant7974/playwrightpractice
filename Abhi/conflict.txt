@@ -1,8 +1,0 @@
-var sum=11
-if(sum%2==0)
-{
-console.log("this is even number")
-{
-else{
-console.log("this is ODD number")
-}
