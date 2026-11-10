@@ -1,1 +1,7 @@
-a=10;
+var sum=10
+if(sum%2==0){
+console.log("person2: this is even no")
+}
+else{
+console.log("person2:this is odd no")
+}
